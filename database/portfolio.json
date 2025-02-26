@@ -154,6 +154,23 @@
   },
   "qualificationInfo": {
     "displayName": "Qualifications",
-    "qualifications": []
+    "qualifications": [
+      {
+        "timeline": "2014-2018",
+        "courseName": "Bachelor of Business Administration (BBA) – Marketing",
+        "instituteName": "Symbiosis International University, Pune",
+        "specializedIn": "Digital Marketing, Consumer Behavior, Brand Strategy",
+        "yearPassout": "2018",
+        "headline1": "Developed a digital marketing strategy for a local startup as part of an academic project, increasing their online reach by 120% within six months.",
+        "headline2": "Won ‘Best Marketing Strategy’ award in an inter-university business competition for an innovative content marketing approach.",
+        "cgpa": "8.6",
+        "link": {
+          "linkText": "",
+          "linkUrl": ""
+        },
+        "images": [],
+        "rank": "3"
+      }
+    ]
   }
 }
