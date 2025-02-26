@@ -81,18 +81,18 @@
     "displayName": "Achievements",
     "listOfAchievements": [
       {
-        "id": "1740422368943",
-        "text": "Awarded ‘Best Automation Engineer’ at Infosys (2021)",
+        "id": "1740556279361",
+        "text": "Awarded ‘Best SEO Strategist’ at Wipro Digital (2021)",
         "type": "award"
       },
       {
-        "id": "1740422398093",
-        "text": "Google Cloud Professional DevOps Engineer Certification (2023): Gained expertise in cloud-based testing, CI/CD, and infrastructure automation.",
+        "id": "1740556288428",
+        "text": "Google Ads Certification (2019): Certified in search, display, and video advertising, optimizing PPC campaigns for high ROI.",
         "type": "certificate"
       },
       {
-        "id": "1740422422394",
-        "text": "Speaker at Selenium Conference (2024): Delivered a talk on integrating Selenium with AI for enhanced test automation in large-scale systems.",
+        "id": "1740556298229",
+        "text": "Published Case Study on AI-Powered Marketing (2022)",
         "type": "other"
       }
     ]
