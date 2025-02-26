@@ -101,52 +101,29 @@
     "displayName": "Timeline",
     "projects": [
       {
-        "timeline": "2022-Present",
-        "projectName": "AI-Powered Testing for E-Commerce Platform",
-        "headline1": "Implemented AI-driven test case generation, improving test coverage by 40% and reducing undetected defects in production.",
-        "headline2": "Led a team of 8 automation engineers to develop a scalable testing framework for microservices architecture.",
-        "designation": "Senior Software Development Engineer in Test (SDET II)",
+        "timeline": "2021-Present",
+        "projectName": "AI-Powered Digital Campaigns for E-commerce Growth",
+        "headline1": "Developed and executed data-driven digital marketing campaigns that increased customer acquisition by 35% through targeted social media ads.",
+        "headline2": "Led a team of 10 digital marketers to optimize omnichannel marketing strategies, resulting in a 25% increase in conversion rates.",
+        "designation": "Senior Digital Marketing Strategist",
         "link": {
           "linkText": "",
           "linkUrl": ""
         },
-        "skills": "Python, Cypress, Performance Testing, Kubernetes, Docker, CI/CD",
-        "companyName": "Amazon",
+        "skills": "AI-Driven Marketing, Data Analytics, Performance Marketing, Conversion Rate Optimization (CRO), Social Media Advertising",
+        "companyName": "Flipkart",
         "images": [
           {
-            "fileName": "st1.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/st1.png"
+            "fileName": "dm1.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/prime-portfolio/master/images/dm1.png"
           },
           {
-            "fileName": "st2.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/st2.png"
+            "fileName": "dm2.jpeg",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/prime-portfolio/master/images/dm2.jpeg"
           },
           {
-            "fileName": "st3.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/st3.png"
-          }
-        ]
-      },
-      {
-        "timeline": "2019-2022",
-        "projectName": "Enterprise Web Application Testing",
-        "headline1": "Developed an automation testing suite using Selenium and Java, reducing regression testing time by 70%.",
-        "headline2": "Integrated test automation with CI/CD pipelines using Jenkins, enabling faster and more reliable software releases.",
-        "designation": "Software Development Engineer in Test (SDET)",
-        "link": {
-          "linkText": "Link",
-          "linkUrl": "https://originui.com/badge"
-        },
-        "skills": "Selenium, Java, TestNG, Jenkins, REST Assured, API Testing, Agile",
-        "companyName": "Infosys Ltd.",
-        "images": [
-          {
-            "fileName": "st4.png",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/st4.png"
-          },
-          {
-            "fileName": "st5.jpg",
-            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/placement-pro/master/images/st5.jpg"
+            "fileName": "dm3.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/prime-portfolio/master/images/dm3.png"
           }
         ]
       }
@@ -154,23 +131,6 @@
   },
   "qualificationInfo": {
     "displayName": "Qualifications",
-    "qualifications": [
-      {
-        "timeline": "2015-2019",
-        "courseName": "Bachelor of Technology in Computer Science",
-        "instituteName": "Indian Institute of Technology (IIT), Delhi",
-        "specializedIn": "Software Testing, Automation, Machine Learning",
-        "yearPassout": "2019",
-        "headline1": "Developed a robust test automation framework for a university project, reducing manual testing efforts by 60%.",
-        "headline2": "Conducted research on machine learning-driven test case generation and published a paper in a national conference.",
-        "cgpa": "8.9",
-        "link": {
-          "linkText": "",
-          "linkUrl": ""
-        },
-        "images": [],
-        "rank": "3"
-      }
-    ]
+    "qualifications": []
   }
 }
