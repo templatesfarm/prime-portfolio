@@ -25,53 +25,53 @@
     "displayName": "Specialization",
     "skills": [
       {
-        "id": "1740422188608",
-        "name": "Test Automation",
+        "id": "1740556087226",
+        "name": "SEO",
         "rating": 8
       },
       {
-        "id": "1740422193824",
-        "name": "Selenium",
+        "id": "1740556095109",
+        "name": "Google Ads",
+        "rating": 9.5
+      },
+      {
+        "id": "1740556101960",
+        "name": "Facebook Ads",
+        "rating": 8
+      },
+      {
+        "id": "1740556112393",
+        "name": "Content Marketing",
         "rating": 8.5
       },
       {
-        "id": "1740422200407",
-        "name": "Cypress",
-        "rating": 7.5
-      },
-      {
-        "id": "1740422209176",
-        "name": "Performance Testing",
-        "rating": 7.5
-      },
-      {
-        "id": "1740422215527",
-        "name": "Jenkins",
-        "rating": 7
-      },
-      {
-        "id": "1740422222826",
-        "name": "Kubernetes",
+        "id": "1740556121512",
+        "name": "Social Media Strategy",
         "rating": 8
       },
       {
-        "id": "1740422230492",
-        "name": "Agile Testing",
+        "id": "1740556130144",
+        "name": "Influencer Marketing",
         "rating": 7.5
       },
       {
-        "id": "1740422236610",
-        "name": "Performance Testing",
-        "rating": 6.5
+        "id": "1740556138994",
+        "name": "Branding",
+        "rating": 8.5
       },
       {
-        "id": "1740422243376",
-        "name": "Security Testing",
+        "id": "1740556145010",
+        "name": "Performance Marketing",
         "rating": 8
       },
       {
-        "id": "1740422249810",
-        "name": "AI-Driven Testing",
+        "id": "1740556149596",
+        "name": "E-commerce Marketing",
+        "rating": 8
+      },
+      {
+        "id": "1740556161361",
+        "name": "CRO",
         "rating": 8.5
       }
     ],
