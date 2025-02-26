@@ -126,6 +126,29 @@
             "fileUrl": "https://raw.githubusercontent.com/templatesfarm/prime-portfolio/master/images/dm3.png"
           }
         ]
+      },
+      {
+        "timeline": "2018-2021",
+        "projectName": "Global E-commerce Digital Marketing Strategy",
+        "headline1": "Managed a PPC (pay-per-click) campaign for a retail client, optimizing ad spend and increasing ROI by 45%.",
+        "headline2": "Implemented SEO strategies that boosted website traffic by 80% within one year, achieving first-page Google rankings for multiple high-volume keywords.",
+        "designation": "Digital Marketing Associate",
+        "link": {
+          "linkText": "Link",
+          "linkUrl": "https://originui.com/badge"
+        },
+        "skills": "Google Ads, SEO, Content Marketing, PPC, Social Media Strategy, Keyword Research, Email Marketing",
+        "companyName": "Wipro",
+        "images": [
+          {
+            "fileName": "dm4.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/prime-portfolio/master/images/dm4.png"
+          },
+          {
+            "fileName": "dm5.png",
+            "fileUrl": "https://raw.githubusercontent.com/templatesfarm/prime-portfolio/master/images/dm5.png"
+          }
+        ]
       }
     ]
   },
