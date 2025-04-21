@@ -2,8 +2,8 @@
   "personalInfo": {
     "displayName": "",
     "name": "Nitish Reddy",
-    "contactNumber": "9876543210",
-    "email": "nitishreddy@gmail.com",
+    "contactNumber": "",
+    "email": "",
     "socialMedia": {
       "linkedIn": "https://www.linkedin.com/",
       "github": "https://github.com/",
@@ -24,7 +24,7 @@
   "skillsInfo": {
     "displayName": "Skills",
     "skills": [
-       {
+      {
         "id": "1740395651799",
         "name": "React Native",
         "rating": 7
@@ -102,7 +102,7 @@
     ],
     "showMovingSkills": true
   },
-    "achievementsInfo": {
+  "achievementsInfo": {
     "displayName": "Achievements",
     "listOfAchievements": [
       {
